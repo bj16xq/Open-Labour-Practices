@@ -1,4 +1,4 @@
-*For the downloadable ODF file, see [here](https://github.com/bj16xq/Open-Union-Practices/blob/main/Union%20Executive%20Meeting%20Agenda%20Package%20Template%20v1.1.odt)
+*This is the preview. For the downloadable ODF file, see [here](https://github.com/bj16xq/Open-Union-Practices/blob/main/Union%20Executive%20Meeting%20Agenda%20Package%20Template%20v1.1.odt)
 
 [insert Union logo]
 
