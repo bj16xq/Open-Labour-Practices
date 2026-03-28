@@ -2,7 +2,7 @@
 
 # JHSC Representative Reflection Prompts
 
-> “The unexamined life is not worth living”
+> “The unexamined life is not worth living” 
 > — Socrates, as cited by Plato, n.d., Apology (38a)
 
 This resource is the meant to guide reflection on individual and group practices for JHSC Representatives. 
@@ -27,4 +27,25 @@ For specificity, this reflection can be broken down into each of the various asp
 
 ## Table for Brainstorming and Reflection
 
+| Aspect of Practice | Current Practices | Pros | Cons | Verdict<br>(stop or continue?) | Potential Change in Practice | Pros | Cons | Verdict<br>(start or not?) |
+|---|---|---|---|---|---|---|---|---|
+| Meeting Preparation (group) | Formal<br>Informal | | | | | | | |
+| Meeting Preparation (individual) | Formal<br>Informal | | | | | | | |
+| Meeting Engagement (group) | Formal<br>Informal | | | | | | | |
+| Meeting Engagement (individual) | Formal<br>Informal | | | | | | | |
+| Inspection Preparation (group) | Formal<br>Informal | | | | | | | |
+| Inspection Preparation (individual) | Formal<br>Informal | | | | | | | |
+| Inspection Engagement | Formal<br>Informal | | | | | | | |
+| Inspection Reporting (group) | Formal<br>Informal | | | | | | | |
+| Inspection Reporting (individual) | Formal<br>Informal | | | | | | | |
 
+## Game Version of Reflection Activity
+
+Games can increase engagement in reflection activities! Below are the steps:
+1. Get together a group of JHSC Representatives from your union or workplace
+2. Take turns rolling a pair of dice, which will randomize which specific practice you should focus on (e.g., meeting vs. inspection, formal vs. informal, etc.); since there are 18 options, the table below guides what you get based on your roll of dice.
+3. Whichever specific practice your roll leads you to, share reflections on: **pros**, **cons**, and overall **verdict** of “current practices”; then, think of **pros**, **cons**, and overall **verdict** of “potential changes in practice” (refer to table on previous page)
+4. Discussion the reflections of each person for the purpose of coming up with tangible take-aways
+
+| 1st die | 2nd die | Specific practice |
+|---|---|---|
