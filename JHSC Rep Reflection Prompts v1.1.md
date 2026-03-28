@@ -49,3 +49,21 @@ Games can increase engagement in reflection activities! Below are the steps:
 
 | 1st die | 2nd die | Specific practice |
 |---|---|---|
+| 1 or 2 | 1 | Meeting preparation, group, formal |
+| 1 or 2 | 2 | Meeting preparation, group, informal |
+| 1 or 2 | 3 | Meeting preparation, individual, formal |
+| 1 or 2 | 4 | Meeting preparation, individual, informal |
+| 1 or 2 | 5 | Meeting engagement, group, formal |
+| 1 or 2 | 6 | Meeting engagement, group, informal |
+| 3 or 4 | 1 | Meeting engagement, individual, formal |
+| 3 or 4 | 2 | Meeting engagement, individual, informal |
+| 3 or 4 | 3 | Inspection preparation, group, formal |
+| 3 or 4 | 4 | Inspection preparation, group, informal |
+| 3 or 4 | 5 | Inspection preparation, individual, formal |
+| 3 or 4 | 6 | Inspection preparation, individual, informal |
+| 5 or 6 | 1 | Inspection engagement, group, formal |
+| 5 or 6 | 2 | Inspection engagement, group, informal |
+| 5 or 6 | 3 | Inspection engagement, individual, formal |
+| 5 or 6 | 4 | Inspection engagement, individual, informal |
+| 5 or 6 | 5 | Inspection reporting, individual, formal |
+| 5 or 6 | 6 | Inspection reporting, individual, informal |
