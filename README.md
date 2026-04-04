@@ -14,20 +14,6 @@ The intended users are leaders in labour unions, but may be useful to non-unioni
 The purpose of using these resources are to support labour responsibilities ranging from union governance, meeting documentation and reflection activities for worker representatives. Users of these resources may also make their own adjustments that can be openly shared, which enables a cycle of constant improvement that benefits others. 
 
 **How?** 
-Resources on this repository are openly accessible. The expectation is that, should improvements be made, that they be openly shared in a similar manner (see details below).
+Resources on this repository are openly accessible. The expectation is that, should improvements be made, that they be openly shared in a similar manner.
 
 For explanations of each resource, please view [the Wiki.](https://github.com/bj16xq/Open_Labour_Practices/wiki)
-
-## Overall Process
-
-**Passive Use**
-1. View the preview of any given resource to determine if useful for your task(s).
-2. View the explanation of the resource in the Wiki subpage for additional information.
-3. Use the resource (i.e., download or copy text).
-
-**Active Use**
-1. Use the resource as described above.
-2. Reflect on how it could be 
-3. If you have any improvements or additions to the resource, make the changes on a copy of the original file.
-4. Save the new version of the resource for your own purposes.
-5. Openly share the new version in 1 of 2 ways: (i) as a pull request on this GitHub page; or, (ii) on your own repository or platform.
